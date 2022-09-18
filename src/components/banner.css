@@ -1,0 +1,17 @@
+section{
+    /* margin-bottom: 2rem;  */
+      height: 100%; 
+      /* margin-bottom: 6rem;  */
+      margin-left: 7rem;
+    margin-right: 1rem;
+
+
+      @media (min-width: 1280px) { 
+        margin-bottom: 6rem; 
+       } 
+      
+}
+section h4{
+    font-size: 2rem;
+    margin-left: 2rem;
+}

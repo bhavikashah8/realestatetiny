@@ -1,0 +1,14 @@
+footer{
+    padding-top: 2rem;
+/* padding-bottom: 2rem;  */
+text-align: center; 
+}
+
+footer .container{
+    width: 100%; 
+    /* height: auto; */
+background-color: black;
+color: #ffffff; 
+
+
+}

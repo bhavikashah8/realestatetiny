@@ -1,0 +1,56 @@
+header{
+    /* padding-top: 1.5rem;
+padding-bottom: 1.5rem; 
+margin-bottom: 3rem; 
+border-bottom-width: 1px;  */
+
+
+}
+
+
+header .container{
+    width: 100%; 
+display: flex; 
+justify-content: space-around; 
+align-items: center; 
+background-color: white; 
+padding: 0;
+
+
+}
+header .container a{
+    text-decoration: none;
+}
+header .container h3{
+    font-size: 2rem;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+header .container .login1{
+    display: flex; 
+align-items: center; 
+gap: 1rem; 
+
+margin-left: 51rem;
+    font-size: 20px;
+
+}
+
+/* header .container .login1 a{
+    text-decoration: none;
+
+} */
+
+header .container .login1 .signup{
+     
+     padding-top: 0.75rem;
+    padding-bottom: 0.75rem; 
+    padding-left: 1rem;
+    padding-right: 1rem; 
+    /* transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform; 
+    color: #ffffff; */
+    background-color: #6D28D9; 
+    border-radius: 0.5rem;  
+    color: white;
+}

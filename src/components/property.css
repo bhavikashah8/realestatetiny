@@ -1,0 +1,37 @@
+.dropdown{
+    position: relative;
+    width: 48rem;
+}
+
+.dropdown .dropdown-btn{
+    text-align: left; 
+width: 100%; 
+
+}
+
+.dropdown .country{
+    font-weight: 500; 
+line-height: 1.25; 
+color: 15px;
+font-size: 15px;
+
+}
+.dropdown .place{
+    font-weight: 500; 
+line-height: 1.25; 
+color: 15px;
+font-size: 15px;
+
+}
+.dropdown .dropdown-menu .drop:hover{
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform; 
+    cursor: pointer; 
+    color: #6D28D9;
+    font-weight: 400;
+}
+.dropdown .dropdown-menu .drop{
+    font-weight: 500; 
+line-height: 1.25; 
+color: 15px;
+font-size: 19px;
+}
